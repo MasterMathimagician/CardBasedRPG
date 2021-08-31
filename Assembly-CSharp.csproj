@@ -61,6 +61,7 @@
      <Compile Include="Assets\Scripts\Gamplay\CardDragAndDrop.cs" />
      <Compile Include="Assets\Scripts\Characters\EnemyStats.cs" />
      <Compile Include="Assets\Scripts\Characters\PersistentData.cs" />
+     <Compile Include="Assets\Scripts\Gamplay\CardAppearance.cs" />
  <Reference Include="UnityEngine">
  <HintPath>/Applications/Unity Versions/2020.3.11f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>

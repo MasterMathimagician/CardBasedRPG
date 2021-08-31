@@ -1,0 +1,461 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity Versions/2020.3.11f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/stephentrotter/programs/unity projects/CardBasedRPG
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+55545
+Successfully changed project path to: /Users/stephentrotter/programs/unity projects/CardBasedRPG
+/Users/stephentrotter/programs/unity projects/CardBasedRPG
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 80.18 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.11f1 (99c7afb366b3)
+[Subsystems] Discovering subsystems at path /Applications/Unity Versions/2020.3.11f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/stephentrotter/programs/unity projects/CardBasedRPG/Assets
+GfxDevice: creating device client; threaded=0
+2021-08-19 15:43:58.112 Unity[24062:2850702] Color LCD preferred device: Intel Iris Graphics (low power)
+2021-08-19 15:43:58.112 Unity[24062:2850702] Metal devices available: 1
+2021-08-19 15:43:58.112 Unity[24062:2850702] 0: Intel Iris Graphics (low power)
+2021-08-19 15:43:58.113 Unity[24062:2850702] Using device Intel Iris Graphics (low power)
+Initializing Metal device caps: Intel Iris Graphics
+Initialize mono
+Mono path[0] = '/Applications/Unity Versions/2020.3.11f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity Versions/2020.3.11f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity Versions/2020.3.11f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56062
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity Versions/2020.3.11f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity Versions/2020.3.11f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.002601 seconds.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 64.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.562 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.012103 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 67.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.313 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity Versions/2020.3.11f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2094 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 170.4 MB.
+System memory in use after: 170.3 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2528.
+Total: 6.215897 ms (FindLiveObjects: 0.759103 ms CreateObjectMapping: 0.450227 ms MarkObjects: 4.732377 ms  DeleteObjects: 0.271816 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/Gamplay/BattleController.cs
+  artifactKey: Guid(f62106f862e234f879bf7f5ae8f9fb6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Gamplay/BattleController.cs using Guid(f62106f862e234f879bf7f5ae8f9fb6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4017895815e028c037f50f9f19b44c38') in 8.121549 seconds
+  Import took 8.129692 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004835 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.95 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.617 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2089 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 175.0 MB.
+System memory in use after: 175.0 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2532.
+Total: 3.830179 ms (FindLiveObjects: 0.266521 ms CreateObjectMapping: 0.095851 ms MarkObjects: 3.298868 ms  DeleteObjects: 0.167285 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.061467 seconds.
+  path: Assets/Scripts/Gamplay/BattleController.cs
+  artifactKey: Guid(f62106f862e234f879bf7f5ae8f9fb6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Gamplay/BattleController.cs using Guid(f62106f862e234f879bf7f5ae8f9fb6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '882ff164f2f8c78223ac704b83aa9f0b') in 0.014119 seconds
+  Import took 0.019537 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.017991 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.758 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2089 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 175.2 MB.
+System memory in use after: 175.2 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2536.
+Total: 2.985113 ms (FindLiveObjects: 0.321765 ms CreateObjectMapping: 0.094727 ms MarkObjects: 2.415752 ms  DeleteObjects: 0.151637 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 17258.008357 seconds.
+  path: Assets/Prefabs/Card.prefab
+  artifactKey: Guid(4c70c7625d6df4198887cdef743413eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Card.prefab using Guid(4c70c7625d6df4198887cdef743413eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bd0cb611617e6a5d7ff9bbcfbf51a02') in 1.672358 seconds
+  Import took 1.676967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Prefabs/Card.prefab
+  artifactKey: Guid(4c70c7625d6df4198887cdef743413eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Card.prefab using Guid(4c70c7625d6df4198887cdef743413eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bd0cb611617e6a5d7ff9bbcfbf51a02') in 0.004562 seconds
+  Import took 0.008759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 102246.563582 seconds.
+  path: Assets/Scripts/Gamplay/Card.cs
+  artifactKey: Guid(fd2837772b21f4b31b4d340c86d32bd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Gamplay/Card.cs using Guid(fd2837772b21f4b31b4d340c86d32bd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f980e53a1d185f191f9eb6fb0edbe1a8') in 0.034186 seconds
+  Import took 0.083074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001860 seconds.
+  path: Assets/Scripts/Gamplay/Card.cs
+  artifactKey: Guid(fd2837772b21f4b31b4d340c86d32bd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Gamplay/Card.cs using Guid(fd2837772b21f4b31b4d340c86d32bd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f980e53a1d185f191f9eb6fb0edbe1a8') in 0.010520 seconds
+  Import took 0.020447 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007749 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.161 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.65 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2090 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 180.3 MB.
+System memory in use after: 180.3 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2543.
+Total: 10.466064 ms (FindLiveObjects: 1.486135 ms CreateObjectMapping: 0.229388 ms MarkObjects: 8.463330 ms  DeleteObjects: 0.285123 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 359.108938 seconds.
+  path: Assets/Scripts/Gamplay/CardAppearance.cs
+  artifactKey: Guid(fd2837772b21f4b31b4d340c86d32bd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Gamplay/CardAppearance.cs using Guid(fd2837772b21f4b31b4d340c86d32bd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '539c14c2a7a4dd4eb2efc829593c7125') in 0.011123 seconds
+  Import took 0.017383 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004597 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.97 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.671 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2090 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 180.5 MB.
+System memory in use after: 180.5 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2547.
+Total: 3.590381 ms (FindLiveObjects: 0.233748 ms CreateObjectMapping: 0.090822 ms MarkObjects: 3.116468 ms  DeleteObjects: 0.147807 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004169 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.145 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2090 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 180.7 MB.
+System memory in use after: 180.7 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2551.
+Total: 2.805898 ms (FindLiveObjects: 0.229612 ms CreateObjectMapping: 0.100498 ms MarkObjects: 2.347311 ms  DeleteObjects: 0.127328 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.844579 seconds.
+  path: Assets/Scripts/Gamplay/CardAppearance.cs
+  artifactKey: Guid(fd2837772b21f4b31b4d340c86d32bd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Gamplay/CardAppearance.cs using Guid(fd2837772b21f4b31b4d340c86d32bd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e0a6db0c37d2765df5c4bb82530cd7b') in 0.006254 seconds
+  Import took 0.010862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.178170 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(a36f14e9610cc4555a18e3da0d152d5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(a36f14e9610cc4555a18e3da0d152d5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f418c3456f5c10c607d69c468486637') in 0.002054 seconds
+  Import took 0.014902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1069.649206 seconds.
+  path: Assets/Scripts/Gamplay/CardsManager.cs
+  artifactKey: Guid(474f4c5a301044fa9ad6003c9569bd55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Gamplay/CardsManager.cs using Guid(474f4c5a301044fa9ad6003c9569bd55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35fd05106bdf79caa50f76adc288da54') in 0.027694 seconds
+  Import took 0.074683 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005083 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.985 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.13 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2090 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 180.8 MB.
+System memory in use after: 180.8 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2555.
+Total: 2.978820 ms (FindLiveObjects: 0.326654 ms CreateObjectMapping: 0.093674 ms MarkObjects: 2.402534 ms  DeleteObjects: 0.154677 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.125022 seconds.
+  path: Assets/Scripts/Gamplay/CardAppearance.cs
+  artifactKey: Guid(fd2837772b21f4b31b4d340c86d32bd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Gamplay/CardAppearance.cs using Guid(fd2837772b21f4b31b4d340c86d32bd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea0b5eb32dd4c7627c3293101dd4f2c6') in 0.006637 seconds
+  Import took 0.011876 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004168 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.769 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2089 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 181.1 MB.
+System memory in use after: 181.1 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2558.
+Total: 3.519101 ms (FindLiveObjects: 0.227036 ms CreateObjectMapping: 0.090086 ms MarkObjects: 3.038759 ms  DeleteObjects: 0.161420 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.127057 seconds.
+  path: Assets/Scripts/Gamplay/CardAppearance.cs
+  artifactKey: Guid(fd2837772b21f4b31b4d340c86d32bd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Gamplay/CardAppearance.cs using Guid(fd2837772b21f4b31b4d340c86d32bd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40481ca7806b8ae0cc6bd459addc0eb9') in 0.011981 seconds
+  Import took 0.030722 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004182 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.930 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2090 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 181.2 MB.
+System memory in use after: 181.2 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2563.
+Total: 3.217521 ms (FindLiveObjects: 0.230328 ms CreateObjectMapping: 0.089861 ms MarkObjects: 2.754159 ms  DeleteObjects: 0.141922 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005088 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.753 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2090 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 181.5 MB.
+System memory in use after: 181.5 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2567.
+Total: 3.675035 ms (FindLiveObjects: 0.453711 ms CreateObjectMapping: 0.109206 ms MarkObjects: 2.926448 ms  DeleteObjects: 0.184421 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 754.136208 seconds.
+  path: Assets/Scripts/Gamplay/CardAppearance.cs
+  artifactKey: Guid(fd2837772b21f4b31b4d340c86d32bd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Gamplay/CardAppearance.cs using Guid(fd2837772b21f4b31b4d340c86d32bd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96a097cf45d207be1abc96d3159ae840') in 0.015987 seconds
+  Import took 0.021997 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006632 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.841 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2090 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 181.7 MB.
+System memory in use after: 181.7 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2571.
+Total: 3.420650 ms (FindLiveObjects: 0.377782 ms CreateObjectMapping: 0.118830 ms MarkObjects: 2.655536 ms  DeleteObjects: 0.265731 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 64829.097957 seconds.
+  path: Assets/Scripts/Gamplay/CardAppearance.cs
+  artifactKey: Guid(fd2837772b21f4b31b4d340c86d32bd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Gamplay/CardAppearance.cs using Guid(fd2837772b21f4b31b4d340c86d32bd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b2862158983dac3a004a9366fd03fb4') in 0.129794 seconds
+  Import took 0.209732 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005307 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.878 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2090 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.0 MB.
+System memory in use after: 182.0 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2575.
+Total: 3.056270 ms (FindLiveObjects: 0.318153 ms CreateObjectMapping: 0.102038 ms MarkObjects: 2.474595 ms  DeleteObjects: 0.160239 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.095095 seconds.
+  path: Assets/Scripts/Gamplay/CardAppearance.cs
+  artifactKey: Guid(fd2837772b21f4b31b4d340c86d32bd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Gamplay/CardAppearance.cs using Guid(fd2837772b21f4b31b4d340c86d32bd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79600c37d3623f53fd949664ffc51114') in 0.006730 seconds
+  Import took 0.011711 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007720 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.928 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.94 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2090 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.2 MB.
+System memory in use after: 182.2 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2579.
+Total: 3.936127 ms (FindLiveObjects: 0.632460 ms CreateObjectMapping: 0.397392 ms MarkObjects: 2.763067 ms  DeleteObjects: 0.141613 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004987 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.668 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2090 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.4 MB.
+System memory in use after: 182.4 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2583.
+Total: 3.322456 ms (FindLiveObjects: 0.341637 ms CreateObjectMapping: 0.115828 ms MarkObjects: 2.730685 ms  DeleteObjects: 0.133099 ms)
+
