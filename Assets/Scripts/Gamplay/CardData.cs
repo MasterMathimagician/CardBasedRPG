@@ -1,6 +1,26 @@
 
 /// container class for card data
 /// ****** possible redundant class *********** (see card properties
+/// need to decide whether using a monobehaviour script or a regular script will be better, currently I believe 
+/// I should avoid monobehaviour for this, making this the proper use class
+/// 
+/* CardProperties is a container to hold information of the behaviour of a given card, this includes the number of targets this affects, 
+ *  damage, healing, functionality, etc. 
+ * I will try to make this have as broad functionality as possible but some less basic cards will need their functionality added 
+ * individually but this should still be added so that if an effect is to be repeated in another card the code can be reused
+ * 
+ * Need to use events: https://docs.microsoft.com/en-us/dotnet/standard/events/
+ * 
+ * What do cards do?
+ * 					Damage a target/multiple targets (add bonuses later)
+ * 					Status Change a target/multiple targets
+ * 					restore health to target/multiple targets
+ * 					Summon a minion
+ * 					revive a minion (later, requires use of a graveyard)
+ * 					alter hero stats temporarily (max mana, mana generation, max health, add health buffer)
+ * 					transform a summon
+ * 					
+*/
 
 public class CardData
 {

@@ -112,8 +112,8 @@ public class CardProperties : MonoBehaviour
 		return CardType.sorcery;
 	}
 
-	//public void PlayCard(Hero hero, CharacterStats enemy) {
-	//}
-	// looking at the CardProperties and the Character stats, will need each card to call a targeting function for targeted effects
-	//public event Action<CardProperties, CharacterStats> playCard;
+    //public void PlayCard(Hero hero, CharacterStats enemy) {
+    //}
+    // looking at the CardProperties and the Character stats, will need each card to call a targeting function for targeted effects
+    //public event Action<CardProperties, CharacterStats> playCard;
 }
