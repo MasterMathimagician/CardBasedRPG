@@ -823,3 +823,91 @@ Received Import Request.
 Start importing Assets/Scripts/Gamplay/DraggableCards.cs using Guid(696eadc68be3645d0bbd2fd5e4573fc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ab33d3203f9845c182088fb87c377c6') in 0.006961 seconds
   Import took 0.012475 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 24363.011362 seconds.
+  path: Assets/Scripts/Gamplay/MyHero.png
+  artifactKey: Guid(bd74807d3ceea455e9e65d11cdc7d606) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Gamplay/MyHero.png using Guid(bd74807d3ceea455e9e65d11cdc7d606) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abd68f7c6a46e8be69ed9eab241299fe') in 1.728423 seconds
+  Import took 1.755669 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.623533 seconds.
+  path: Assets/Images
+  artifactKey: Guid(c07c2196cb62c45958909d1f9797d954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images using Guid(c07c2196cb62c45958909d1f9797d954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44929ece48d33b917ad9910fc0db2bb3') in 0.005268 seconds
+  Import took 0.022335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 120.435509 seconds.
+  path: Assets/Images/071.jpg
+  artifactKey: Guid(5b7ab3bc9764840699c2a7ea56da6a63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/071.jpg using Guid(5b7ab3bc9764840699c2a7ea56da6a63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '833863ec6e01b8a5bce51f05fabe013c') in 1.461247 seconds
+  Import took 1.473761 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2167.147717 seconds.
+  path: Assets/Prefabs/Card.prefab
+  artifactKey: Guid(4c70c7625d6df4198887cdef743413eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Card.prefab using Guid(4c70c7625d6df4198887cdef743413eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5abfc3bbe3f4d5a0a34b292e768c35f4') in 0.086336 seconds
+  Import took 0.118140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.271703 seconds.
+  path: Assets/Prefabs/Card.prefab
+  artifactKey: Guid(4c70c7625d6df4198887cdef743413eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Card.prefab using Guid(4c70c7625d6df4198887cdef743413eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70895ddd97c890053f756a01ff269058') in 0.009220 seconds
+  Import took 0.014489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017253 seconds.
+  path: Assets/Prefabs/Card.prefab
+  artifactKey: Guid(4c70c7625d6df4198887cdef743413eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Card.prefab using Guid(4c70c7625d6df4198887cdef743413eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70895ddd97c890053f756a01ff269058') in 0.017380 seconds
+  Import took 0.028555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37397.187951 seconds.
+  path: Assets/Prefabs/Card.prefab
+  artifactKey: Guid(4c70c7625d6df4198887cdef743413eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Card.prefab using Guid(4c70c7625d6df4198887cdef743413eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '742fdf5dd8facbd8a55e868bfce217d9') in 0.163533 seconds
+  Import took 0.179027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 70.856831 seconds.
+  path: Assets/Prefabs/Card.prefab
+  artifactKey: Guid(4c70c7625d6df4198887cdef743413eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Card.prefab using Guid(4c70c7625d6df4198887cdef743413eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de4541ec2a5b539492d69866ee904305') in 0.039958 seconds
+  Import took 0.049960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 349.156620 seconds.
+  path: Assets/Prefabs/Card.prefab
+  artifactKey: Guid(4c70c7625d6df4198887cdef743413eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Card.prefab using Guid(4c70c7625d6df4198887cdef743413eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '181650d1f0a2cdd9f47ed2d19f1777fa') in 0.044247 seconds
+  Import took 0.055316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33622.948508 seconds.
+  path: Assets/Prefabs/Card.prefab
+  artifactKey: Guid(4c70c7625d6df4198887cdef743413eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Card.prefab using Guid(4c70c7625d6df4198887cdef743413eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da23d202b60d2890e8e1c50763027f56') in 0.091625 seconds
+  Import took 0.130791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30553.097902 seconds.
+  path: Assets/Prefabs/Card.prefab
+  artifactKey: Guid(4c70c7625d6df4198887cdef743413eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Card.prefab using Guid(4c70c7625d6df4198887cdef743413eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60f1c308dc8511ef1e2d7a6d55a3c5dc') in 0.201332 seconds
+  Import took 0.247430 seconds .
+
